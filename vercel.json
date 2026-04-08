@@ -1,0 +1,5 @@
+{
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm --filter @workspace/poker-range build",
+  "outputDirectory": "artifacts/poker-range/dist/public"
+}
